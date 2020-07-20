@@ -1,0 +1,16 @@
+1.Decison Tree:-
+
+Mean: 4.469216035906593
+STD: 1.3424552406601324
+
+
+2.Linear Regression:-
+
+Mean: 4.962122276035233
+STD: 1.050533144600248
+
+
+3.Random Forest Regressor:-(Best of all)
+
+Mean: 3.2553360366745436
+STD: 0.8813207650390685
